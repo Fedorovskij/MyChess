@@ -1,0 +1,30 @@
+c:\users\полковник\documents\visual studio 2015\Projects\Chess\Chess\bin\Debug\Chess.exe.config
+c:\users\полковник\documents\visual studio 2015\Projects\Chess\Chess\bin\Debug\Chess.exe
+c:\users\полковник\documents\visual studio 2015\Projects\Chess\Chess\bin\Debug\Chess.pdb
+c:\users\полковник\documents\visual studio 2015\Projects\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+c:\users\полковник\documents\visual studio 2015\Projects\Chess\Chess\obj\Debug\Chess.Form1.resources
+c:\users\полковник\documents\visual studio 2015\Projects\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+c:\users\полковник\documents\visual studio 2015\Projects\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+c:\users\полковник\documents\visual studio 2015\Projects\Chess\Chess\obj\Debug\Chess.exe
+c:\users\полковник\documents\visual studio 2015\Projects\Chess\Chess\obj\Debug\Chess.pdb
+D:\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Chess\Chess\obj\Debug\Chess.exe
+D:\Chess\Chess\obj\Debug\Chess.pdb
+D:\Chess\Chess\bin\Debug\Chess.exe
+D:\Chess\Chess\bin\Debug\Chess.pdb
+D:\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+D:\Chess\Chess\obj\Debug\Chess.Form1.resources
+D:\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+D:\фото\Chess\Chess\bin\Debug\Chess.exe.config
+D:\фото\Chess\Chess\obj\Debug\Chess.exe
+D:\фото\Chess\Chess\obj\Debug\Chess.pdb
+D:\фото\Chess\Chess\bin\Debug\Chess.exe
+D:\фото\Chess\Chess\bin\Debug\Chess.pdb
+D:\фото\Chess\Chess\obj\Debug\Chess.csprojResolveAssemblyReference.cache
+D:\фото\Chess\Chess\obj\Debug\Chess.Form1.resources
+D:\фото\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\фото\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.Cache
+D:\Шахматы\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Шахматы\Chess\Chess\obj\Debug\Chess.exe
+D:\Шахматы\Chess\Chess\obj\Debug\Chess.pdb
